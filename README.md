@@ -1,1 +1,1 @@
-# Website project for my Intro to Software class, Fall 2023
+# Portfolio project for my Intro to Software class, Fall 2023
